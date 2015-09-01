@@ -1,2 +1,3 @@
 # cpp-linked-list
-linked list implemented in c++
+C++ implemented singly-linked list class with test driver script
+
